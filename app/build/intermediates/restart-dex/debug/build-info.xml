@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64"
+    api-level="21"
+    density="420dpi"
+    format="7"
+    timestamp="66100295615571"
+    token="7110034394831118875" >
+
+    <task
+        name="javac"
+        duration="365" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="456" />
+    <task
+        name="verifier"
+        duration="16" />
+
+    <artifact
+        location="/home/david/AndroidStudioProjects/ZoomerAid/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="66100295615571" >
+        <artifact
+            location="/home/david/AndroidStudioProjects/ZoomerAid/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Zoomer Aid</string>
+    <string name="action_settings">Settings</string>
+    <string name="search_button">Search</string>
+    <string name="clear">Clear</string>
+    <string name="next">Next Entry</string>
+    <string name="image1">R.drawable.park_place</string>
+</resources>

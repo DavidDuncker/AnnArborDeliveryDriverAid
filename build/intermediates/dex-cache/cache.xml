@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/david/AndroidStudioProjects/ZoomerAid/app/build/intermediates/exploded-aar/com.android.support/design/23.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="/home/david/AndroidStudioProjects/ZoomerAid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.1.0_e4156beb2af9abe1c5a8744288a231c2cc532c68/classes.dex" />
+    </item>
+    <item
+        jar="/home/david/AndroidStudioProjects/ZoomerAid/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/home/david/AndroidStudioProjects/ZoomerAid/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.0_af74a6f3e551eefd0021f109682d3171ecd6e12b/classes.dex" />
+    </item>
+    <item
+        jar="/home/david/AndroidStudioProjects/ZoomerAid/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3f57a02b549b051fc498ab4e466583eca6156c85">
+        <dex dex="/home/david/AndroidStudioProjects/ZoomerAid/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ec3c0d866628e60f95689a3d7305d84d0d4c828f/classes.dex" />
+    </item>
+    <item
+        jar="/home/david/AndroidStudioProjects/ZoomerAid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/home/david/AndroidStudioProjects/ZoomerAid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.1.0_d5583d90c8ee83c8dbc7f2c2584d5e10e555262c/classes.dex" />
+    </item>
+    <item
+        jar="/home/david/AndroidStudioProjects/ZoomerAid/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="/home/david/AndroidStudioProjects/ZoomerAid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.1.0_f9ddcc66f9dacf17027c37f5e1439a11e232b1ad/classes.dex" />
+    </item>
+    <item
+        jar="/home/david/AndroidStudioProjects/ZoomerAid/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="570daf6fc1049499ab41be622deeb7177c0e5ae9">
+        <dex dex="/home/david/AndroidStudioProjects/ZoomerAid/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b834ef42f1603533c97ed249878df8bd7605ac47/classes.dex" />
+    </item>
+    <item
+        jar="/home/david/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/home/david/AndroidStudioProjects/ZoomerAid/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.0_d27a84f13ffa28123c63b03f5f3d07bce53232ad/classes.dex" />
+    </item>
+    <item
+        jar="/home/david/AndroidStudioProjects/ZoomerAid/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/home/david/AndroidStudioProjects/ZoomerAid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.1.0_66d8d65500dee797ff54202d8653c1e662d62367/classes.dex" />
+    </item>
+
+</items>
